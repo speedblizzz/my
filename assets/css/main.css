@@ -1855,8 +1855,8 @@
 	position: relative;
 	width: 35%;
 	margin: 0;
-	margin-left: 60px;
-	perspective:200px;
+
+	/*perspective:200px;*/
 	height: 600px;
 	background-color: transparent;
 
@@ -1902,31 +1902,51 @@
 
 			.layout-3d {
 				position: absolute;
-				width: 150px;
-				height: 100px;
-				border: 1px solid #000;
+				width: 400px;
+				height: 200px;
+				top: 25%;
+                /*
 				transform-style: preserve-3d;
+                */
 			}
 .layout-3d:first-child {
-	transform-origin: top right 75px;
-	transform: rotateX(0deg);
-	transform: rotateY(-45deg);
+
+	transform: rotateY(-35deg) rotate(10deg) rotateX(-14deg);
+	transition: all 0.3s;
 	background-color: darkred;
+	cursor: pointer;
+	left: 30%;
+
 }
+
+.layout-3d:first-child:hover {
+
+}
+
+
 .layout-3d:nth-child(2) {
 	background-color: darkblue;
-	transform-origin: center center ;
-	top: 33%;
-	transform: rotateX(90deg) rotateY(45deg) rotateZ(0deg) ;
+	transform: rotateY(-35deg) rotate(10deg) rotateX(-14deg);
+	transition: all 0.3s;
+	cursor: pointer;
+	left: 15%;
+
+
+}
+.layout-3d:nth-child(2):hover {
 
 
 }
 .layout-3d:last-child {
 	background-color: forestgreen;
-	transform-origin: top right 75px;
-	top:66%;
-	transform: rotateX(0deg);
-	transform: rotateY(-45deg);
+	cursor: pointer;
+	transform: rotateY(-35deg) rotate(10deg) rotateX(-14deg);
+	transition: all 0.3s;
+	left: 0%;
+
+}
+.layout-3d:last-child:hover {
+
 
 }
 
