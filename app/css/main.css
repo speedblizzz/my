@@ -287,7 +287,7 @@ ul {
   -webkit-border-radius: 3px;
           border-radius: 3px;
   color: #fff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 37px;
@@ -297,7 +297,7 @@ ul {
   transition: all 0.3s;
 }
 .header_menu_link:hover {
-  background-color: #5dbbc1;
+  background-color: #53d1ee;
 }
 .header_bottom {
   display: -webkit-box;
@@ -320,14 +320,14 @@ ul {
   width: 500px;
 }
 .header_heading {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 90px;
   font-weight: 600;
   color: #fff;
   line-height: 1;
 }
 .header_heading strong {
-  color: #5dbbc1;
+  color: #53d1ee;
 }
 .header_description {
   font-family: 'PT Serif', serif;
@@ -351,13 +351,13 @@ ul {
   width: 100%;
   height: 520px;
   padding: 30px 24px 28px 24px;
-  background-color: #5dbbc1;
+  background-color: #53d1ee;
   -webkit-border-radius: 3px;
           border-radius: 3px;
 }
 .header_form_heading {
   margin-bottom: 35px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 22px;
   font-weight: 400;
   color: #fff;
@@ -417,12 +417,12 @@ ul {
 .header_form_btn__submit {
   width: 100%;
   height: 57px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 22px;
   color: #fff;
   text-transform: uppercase;
   text-align: center;
-  background-color: #0c0623;
+  background-color: #01415f;
   border: none;
   -webkit-border-radius: 4px;
           border-radius: 4px;
@@ -433,7 +433,7 @@ ul {
   width: 100%;
   height: 182px;
   padding-top: 75px;
-  background-color: #0c0623;
+  background-color: #01415f;
 }
 .footer_container {
   display: -webkit-box;
@@ -477,14 +477,14 @@ ul {
   margin-top: 40px;
   margin-bottom: 83px;
   font-size: 50px;
-  font-family: 'Montserrat', sans-serif;
-  color: #5dbbc1;
+  font-family: 'Ubuntu', sans-serif;
+  color: #53d1ee;
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
 }
 .services_heading span {
-  color: #0c0623;
+  color: #01415f;
 }
 .services_list {
   display: -webkit-box;
@@ -533,7 +533,7 @@ ul {
   width: 100%;
   height: 119px;
   padding-top: 30px;
-  background-color: #5dbbc1;
+  background-color: #53d1ee;
 }
 .story_container {
   display: -webkit-box;
@@ -563,14 +563,14 @@ ul {
   display: block;
   width: 269px;
   height: 64px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 22px;
   color: #fff;
   line-height: 64px;
   text-transform: uppercase;
   text-align: center;
   text-decoration: none;
-  background-color: #0c0623;
+  background-color: #01415f;
   -webkit-border-radius: 4px;
           border-radius: 4px;
 }
@@ -582,10 +582,10 @@ ul {
 }
 .pricing_heading {
   margin-bottom: 50px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 50px;
   font-weight: 600;
-  color: #0c0623;
+  color: #01415f;
   text-align: center;
   text-transform: uppercase;
   line-height: 1;
@@ -635,9 +635,9 @@ ul {
 .pricing_item_price {
   margin-bottom: 18px;
   font-size: 60px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-weight: 600;
-  color: #0c0623;
+  color: #01415f;
   text-transform: uppercase;
 }
 .pricing_item_options_list {
@@ -653,19 +653,19 @@ ul {
   display: block;
   width: 205px;
   height: 49px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 22px;
   line-height: 49px;
   text-transform: uppercase;
   text-align: center;
-  color: #0c0623;
-  background-color: #5dbbc1;
+  color: #01415f;
+  background-color: #53d1ee;
   -webkit-border-radius: 3px;
           border-radius: 3px;
 }
 .pricing_item:nth-child(2) .pricing_item_link {
   color: #fff;
-  background-color: #0c0623;
+  background-color: #01415f;
 }
 .portfolio_section {
   width: 100%;
@@ -705,11 +705,11 @@ ul {
 }
 .testimonial_heading {
   margin-bottom: 25px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 50px;
   text-transform: uppercase;
   text-align: center;
-  color: #0c0623;
+  color: #01415f;
   line-height: 1;
 }
 .testimonial_list {
@@ -738,7 +738,7 @@ ul {
   margin-bottom: 15px;
   font-family: 'PT Serif', serif;
   font-size: 20px;
-  color: #0c0623;
+  color: #01415f;
   line-height: 1.4;
 }
 .testimonial_avatar {
@@ -754,16 +754,16 @@ ul {
           box-shadow: 0 -3px 20px 0px #aaa;
 }
 .testimonial_name {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
-  color: #0c0623;
+  color: #01415f;
   font-weight: 600;
 }
 .testimonial_item:last-child {
   margin-top: 45px;
 }
 .testimonial_item:last-child .testimonial_post_block {
-  background-color: rgba(93,187,193,0.7);
+  background-color: #53d1ee;
 }
 .testimonial_item:last-child .testimonial_post_block .testimonial_post {
   color: #fff;
@@ -782,11 +782,11 @@ ul {
 }
 .gallery_heading {
   margin-bottom: 55px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 50px;
   text-transform: uppercase;
   text-align: center;
-  color: #5dbbc1;
+  color: #53d1ee;
   line-height: 1;
 }
 .gallery_list {
@@ -823,13 +823,13 @@ ul {
   display: block;
   width: 100%;
   margin-top: 45px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
   line-height: 1.2;
   text-decoration: underline;
   text-transform: uppercase;
   text-align: center;
-  color: #0c0623;
+  color: #01415f;
 }
 .gallery_more_img_link:hover {
   text-decoration: none;
